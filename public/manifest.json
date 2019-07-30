@@ -1,0 +1,15 @@
+{
+    "name": "商城",
+    "short_name": "作业帮商城",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#0099FF",
+    "theme_color": "#009999",
+    "display": "standalone"
+}
